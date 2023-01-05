@@ -4,7 +4,7 @@
 	<title></title>
 	<!--Bootstrap-->
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <sript src = "jogo.js" </script>
+    <sript src = "https://jeane-cristina.github.io/jogomosquito/jogo.js" </script>
 	<!--CSS-->
 	<link rel="stylesheet" type="text/css" href="jogo.css">
     
